@@ -1,0 +1,14 @@
+{
+  "title": "Medium Korean Font",
+  "name": "Medium-Korean-Font",
+  "version": "0.0.1",
+  "description": "Change Medium font-family for Korean users.",
+  "icon": "icon.png",
+  "main": "index.js",
+  "author": "linusdamyo@gmail.com",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
