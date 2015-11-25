@@ -1,0 +1,6 @@
+.git
+.gitignore
+.jpmignore
+*.md
+*.xpi
+*.sh
